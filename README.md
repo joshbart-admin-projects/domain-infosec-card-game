@@ -4,10 +4,11 @@ Ideas for a Cyber Security tabletop exercise based on deck builder games like Do
 
 ## Card types
 
-Protection Points: Similar to victory points in Catan or Provinces (etc.) in Dominion.  These are earned with excess defensive points at the end of each round.  They can be reduced by the attacker at the end of each round by not having enough defensive points.  The game ends when the defensive team has the number of points equal to 10x the number of team members.  The score cannot go negative.
-Experience: Used as currency.  A player can buy Techincal or Administrative Defenses for experience.  A player starts with their total years of experience in points and can draw additional experience equal to their tenure in their current position in place of a buy.
-Technical Defenses: Defenses like firewalls and antivirus.
-Administrative Defenses: Management players may implement policies or procedures that decrease the cost of technical defenses or grant minidecks.
+- Protection Points: Similar to victory points in Catan or Provinces (etc.) in Dominion.  These are earned with excess defensive points at the end of each round.  They can be reduced by the attacker at the end of each round by not having enough defensive points.  The game ends when the defensive team has the number of points equal to 10x the number of team members.  The score cannot go negative.
+- Experience: Used as currency.  A player can buy Techincal or Administrative Defenses for experience.  A player starts with their total years of experience in points and can draw additional experience equal to their tenure in their current position in place of a buy.
+- Technical Defenses: Defenses like firewalls and antivirus.
+- Administrative Defenses: Management players may implement policies or procedures that decrease the cost of technical defenses or grant minidecks.
+
 Optional: You may start with actual assets already in your deck.  (If you have a firewall set up for your office, you start with one firewall in your deck.)
 
 ## Game play
