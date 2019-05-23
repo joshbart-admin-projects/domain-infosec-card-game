@@ -31,18 +31,18 @@ Once a round has been played, all defense players discard their hands and played
 
 ### Technical
 
-Firewall (3 EXP): +5 defense. +1 draw. +1 implement.
-Firewall logs (1 EXP): +1 detect; requires firewall.
-Endpoint Antivirus (2 EXP): +1 defense.
-Sysmon: +5 detect.
-SIEM: +10 detect. +1 implement.
-Vulnerability Scan: +1 defense. +1 implement.
-System Patch: +5 defense.
-User report (7 EXP): +20 detect. +2 draw. +1 implement. Disables phishing regardless of defense cost.
+- Firewall (3 EXP): +5 defense. +1 draw. +1 implement.
+- Firewall logs (1 EXP): +1 detect; requires firewall.
+- Endpoint Antivirus (2 EXP): +1 defense.
+- Sysmon: +5 detect.
+- SIEM: +10 detect. +1 implement.
+- Vulnerability Scan: +1 defense. +1 implement.
+- System Patch: +5 defense.
+- User report (7 EXP): +20 detect. +2 draw. +1 implement. Disables phishing regardless of defense cost.
 
 ### Administrative
 
-Policy: -1 experience cost to related Technical cards.
-Procedure: -3 experience cost to related Technical cards. provides access to minideck. Requires policy.
-Phishing Training: -1 experience cost to related Technical cards; cost: 15 EXP
-Monthly Security Awareness Training: -1 experience to related Technical cards; cost: 1 EXP
+- Policy: -1 experience cost to related Technical cards.
+- Procedure: -3 experience cost to related Technical cards. provides access to minideck. Requires policy.
+- Phishing Training: -1 experience cost to related Technical cards; cost: 15 EXP
+- Monthly Security Awareness Training: -1 experience to related Technical cards; cost: 1 EXP
