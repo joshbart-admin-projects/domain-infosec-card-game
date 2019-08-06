@@ -1,4 +1,4 @@
-# Shai
+# Domain
 
 Ideas for a Cyber Security tabletop exercise based on deck builder games like Dominion.
 
@@ -28,6 +28,8 @@ Once all players have played, detect points are calculated and attacks are chose
 Once a round has been played, all defense players discard their hands and played cards.  If needed, they reshuffle their decks.  Play continues until the defense team earns enough points.
 
 ## Specific Cards
+
+At this point, these cards are suggestions.  They have not been play-tested yet.
 
 ### Technical
 
